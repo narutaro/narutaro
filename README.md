@@ -27,17 +27,11 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 5. Testing the shield <img src="https://img.shields.io/badge/-javascript-blue" align="right" /><img src="https://img.shields.io/badge/-javascript-blue" align="right" />
 
 
-<img src="https://img.shields.io/badge/-javascript-blue" align="right" /><img src="https://img.shields.io/badge/-javascript-blue" align="right" />
-
 # Others
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/narutaro)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/narutaro/followers.svg)](http://qiita.com/narutaro)
 
-![](https://img.shields.io/badge/-javascript-blue)![](https://img.shields.io/badge/-javascript-blue)
-
-
-<img align="left" alt="x" src="https://img.shields.io/badge/-javascript-blue"><img align="left" alt="y" src="https://img.shields.io/badge/-javascript-blue"></image>
 
 <p align="right"><img  alt="x" src="https://img.shields.io/badge/-javascript-blue">&nbsp;<img alt="y" src="https://img.shields.io/badge/-javascript-blue"></image></p>
