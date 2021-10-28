@@ -5,6 +5,8 @@
 * [Simple list view with Apollo](https://gist.github.com/narutaro/cd0006bc0d066fc6548534b1c1a36fb0) `apollo` `graphql`
 
 ---
+***
+===
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/narutaro)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
