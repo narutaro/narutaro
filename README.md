@@ -27,6 +27,8 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 5. Testing the shield <img src="https://img.shields.io/badge/-javascript-blue" align="right" /><img src="https://img.shields.io/badge/-javascript-blue" align="right" />
 
 
+<img src="https://img.shields.io/badge/-javascript-blue" align="right" /><img src="https://img.shields.io/badge/-javascript-blue" align="right" />
+
 # Others
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/narutaro)
