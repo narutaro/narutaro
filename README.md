@@ -35,10 +35,10 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 # Badges
 
-![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat-square&logo=javascript)
-![apollo](https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat-square&logo=apollographql)
-![graphql](https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat-square&logo=graphql)
-![svelte](https://img.shields.io/static/v1?label=&message=svelte&color=gray&style=flat-square&logo=svelte)
+![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript)
+![apollo](https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql)
+![graphql](https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql)
+![svelte](https://img.shields.io/static/v1?label=&message=svelte&color=gray&style=flat&logo=svelte)
 
 
 <!--
