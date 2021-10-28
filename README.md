@@ -35,3 +35,4 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/narutaro/followers.svg)](http://qiita.com/narutaro)
 
+![](https://img.shields.io/badge/-javascript-blue)![](https://img.shields.io/badge/-javascript-blue)
