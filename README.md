@@ -39,3 +39,5 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 
 <img align="left" alt="x" src="https://img.shields.io/badge/-javascript-blue"><img align="left" alt="y" src="https://img.shields.io/badge/-javascript-blue"></image>
+
+<p align="right"><img  alt="x" src="https://img.shields.io/badge/-javascript-blue"><img alt="y" src="https://img.shields.io/badge/-javascript-blue"></image></p>
