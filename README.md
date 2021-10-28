@@ -11,7 +11,6 @@
 <a href="your link" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="25" width="25" />
 </a>
--->
 </p>
 
 # Hi there 👋
