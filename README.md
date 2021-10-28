@@ -1,6 +1,10 @@
 <p align="right">
-<a href="your link" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="25" width="25" /></a> 
-<a href="your link" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="25" width="25" /></a> 
+<a href="your link" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="25" width="25" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="your link" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="25" width="25" />
+</a> 
 
 <!--
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="25" width="25" /></a>
