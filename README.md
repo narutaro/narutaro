@@ -23,7 +23,7 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 1. [Simple list view with Apollo](https://gist.github.com/narutaro/cd0006bc0d066fc6548534b1c1a36fb0) `javascript` `apollo` `graphql`
 2. [Update Tasks with Mutations](https://gist.github.com/narutaro/d0033155abb47cb5a8be05c3a0c5ebc7) `javascript` `apollo` `graphql`
 3. [Query to Search for an Item with Apollo](https://gist.github.com/narutaro/823f29425c47bc7eda5ab260fdc2c26c) `javascript` `apollo` `graphql`
-4. [Connecting Svelte to Apollo](https://gist.github.com/narutaro/7f85ccb919159026f0bc8cb22d872fec) `javascript` `apollo` `graphql` `svelte` <img src="https://img.shields.io/badge/-javascript-blue" align="right" />
+4. [Connecting Svelte to Apollo](https://gist.github.com/narutaro/7f85ccb919159026f0bc8cb22d872fec) `javascript` `apollo` `graphql` `svelte` <img src="https://img.shields.io/badge/-javascript-blue" align="right" /> <img src="https://img.shields.io/badge/-javascript-blue" align="right" />
 5. Testing the shield <img src="https://img.shields.io/badge/-javascript-blue" align="right" />
 
 
