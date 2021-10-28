@@ -2,11 +2,9 @@
 
 # Activities
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/mikkame)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/mikkame)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/narutaro/followers.svg)](http://qiita.com/mikkame)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/narutaro)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/narutaro/followers.svg)](http://qiita.com/narutaro)
 
 
 # Blog
