@@ -15,7 +15,7 @@
 
 # Hi there 👋
 
-I'm a craft beer lover :beer: who is charging :battery: now...
+I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 
 # Blog
