@@ -3,7 +3,7 @@
 # Blog
 
 * [Simple list view with Apollo](https://gist.github.com/narutaro/cd0006bc0d066fc6548534b1c1a36fb0) ![](https://via.placeholder.com/20)
-*   <img src="https://via.placeholder.com/30" alt="small img" /> Test text checking alignment.
+*   <img src="https://via.placeholder.com/30" align="middle" /> Test text checking alignment.
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 
