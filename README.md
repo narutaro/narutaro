@@ -40,7 +40,7 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 ![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript)
 ![apollo](https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87)
-![graphql](https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=#E10098)
+![graphql](https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=E10098)
 ![svelte](https://img.shields.io/static/v1?label=&message=svelte&color=gray&style=flat&logo=svelte)
 
 
