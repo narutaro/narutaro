@@ -18,7 +18,7 @@
 I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 
-# Blog
+# Posts
 
 ### GraphQL   
 1. [Simple list view with Apollo](https://gist.github.com/narutaro/cd0006bc0d066fc6548534b1c1a36fb0) 
@@ -37,7 +37,7 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 1. [Handle MQTT in your brwoser with MQTT.js](https://gist.github.com/narutaro/6461c0524f7d7ff01e21c2ecb0be84ca)
 
-# Other posts
+# Other Sites
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/narutaro)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/narutaro/followers.svg)](http://qiita.com/narutaro)
