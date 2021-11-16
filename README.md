@@ -20,10 +20,10 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 # Blog
 
-<img align="right" src="https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript">
-<img align="right" src="https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87">
-<img align="right" src="https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=E10098">
-<img align="right" src="https://img.shields.io/static/v1?label=&message=svelte&color=gray&style=flat&logo=svelte">
+<img src="https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript">
+<img src="https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87">
+<img src="https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=E10098">
+<img src="https://img.shields.io/static/v1?label=&message=svelte&color=gray&style=flat&logo=svelte">
 
 1. [Simple list view with Apollo](https://gist.github.com/narutaro/cd0006bc0d066fc6548534b1c1a36fb0) <img align="right" src="https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript"><img align="right" src="https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87">
 2. [Update Tasks with Mutations](https://gist.github.com/narutaro/d0033155abb47cb5a8be05c3a0c5ebc7) <img align="right" src="https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript"><img align="right" src="https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87"><img align="right" src="https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=E10098">
