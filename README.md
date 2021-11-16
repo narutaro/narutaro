@@ -22,7 +22,7 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 ### GraphQL
 
-<p align="right">
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript">
 <img src="https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87">
 <img src="https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=E10098">
