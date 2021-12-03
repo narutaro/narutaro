@@ -44,6 +44,8 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 [![zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino)
 
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg">
+
 # Badges
 
 ![javascript](https://img.shields.io/badge/-javascript-gray.svg?style=flat&logo=javascript)
