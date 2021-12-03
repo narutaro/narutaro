@@ -46,6 +46,10 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="20" width="20">
 
+[![hashnode](https://img.shields.io/badge/-hashnode.svg?style=flat&logo=hashnode)](https://zenn.dev/masaino)
+
+#2962FF
+
 # Badges
 
 ![javascript](https://img.shields.io/badge/-javascript-gray.svg?style=flat&logo=javascript)
