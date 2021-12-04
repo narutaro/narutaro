@@ -46,7 +46,8 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 [![hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://zenn.dev/masaino)
 
-1. <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hashnode.svg" />
+1. <img height="16" width="16" src="https://unpkg.com/simple-icons@v6/icons/hashnode.svg" /> Hashnode
+2. 
 
 
 # Badges
