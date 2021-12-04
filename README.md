@@ -38,13 +38,9 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 1. [Handle MQTT in your brwoser with MQTT.js](https://gist.github.com/narutaro/6461c0524f7d7ff01e21c2ecb0be84ca)
 
 # Other Sites
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/narutaro/posts.svg)](http://qiita.com/narutaro)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/narutaro/followers.svg)](http://qiita.com/narutaro)
-
-[![qiita](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=qiita)](https://qiita.com/narutaro)
-[![zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino)
-[![hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
+1. [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
+2. [![zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino)
+3. [![hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
 
 <a href="your link" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qiita.svg" alt="" height="25" width="25" />
