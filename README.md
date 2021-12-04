@@ -37,7 +37,7 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 1. [Handle MQTT in your brwoser with MQTT.js](https://gist.github.com/narutaro/6461c0524f7d7ff01e21c2ecb0be84ca)
 
-# Other Posts
+# Other posts
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
 [![zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino)
 [![hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
