@@ -55,3 +55,7 @@ https://simpleicons.org/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 https://github.com/simple-icons/simple-icons
 -->
+
+---
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
