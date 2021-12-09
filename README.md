@@ -58,4 +58,4 @@ https://github.com/simple-icons/simple-icons
 
 # Welcome
 
-![](https://komarev.com/ghpvc/?username=narutaro&color=ff69b4)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnarutaro&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+view&edge_flat=false)](https://hits.seeyoufarm.com)
