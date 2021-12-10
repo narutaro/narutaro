@@ -39,16 +39,16 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 # Other posts
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
-[![zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino)
-[![hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
+[![Zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino)
+[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
 
 
 # Badges
 
-![javascript](https://img.shields.io/badge/-javascript-gray.svg?style=flat&logo=javascript)
-![apollo](https://img.shields.io/badge/-apollo-gray.svg?style=flat&logo=apollographql&logoColor=311C87)
-![graphql](https://img.shields.io/badge/-graphql-gray.svg?style=flat&logo=graphql&logoColor=E10098)
-![svelte](https://img.shields.io/badge/-svelte-gray.svg?style=flat&logo=svelte)
+![Javascript](https://img.shields.io/badge/-javascript-gray.svg?style=flat&logo=javascript)
+![Apollo](https://img.shields.io/badge/-apollo-gray.svg?style=flat&logo=apollographql&logoColor=311C87)
+![Graphql](https://img.shields.io/badge/-graphql-gray.svg?style=flat&logo=graphql&logoColor=E10098)
+![Svelte](https://img.shields.io/badge/-svelte-gray.svg?style=flat&logo=svelte)
 
 <!--
 https://simpleicons.org/
