@@ -26,12 +26,6 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 3. [Query to Search for an Item with Apollo](https://gist.github.com/narutaro/823f29425c47bc7eda5ab260fdc2c26c)
 4. [Apollo with Svelte UI](https://gist.github.com/narutaro/7f85ccb919159026f0bc8cb22d872fec) 
 
-<p>
-<img src="https://img.shields.io/static/v1?label=&message=javascript&color=gray&style=flat&logo=javascript">
-<img src="https://img.shields.io/static/v1?label=&message=apollo&color=gray&style=flat&logo=apollographql&logoColor=311C87">
-<img src="https://img.shields.io/static/v1?label=&message=graphql&color=gray&style=flat&logo=graphql&logoColor=E10098">
-<img src="https://img.shields.io/static/v1?label=&message=svelte&color=gray&style=flat&logo=svelte">
-</p>
 
 ### MQTT
 
@@ -45,10 +39,10 @@ I'm a craft beer lover :beer:. Currently charging :battery: ...
 
 # Badges
 
-![Javascript](https://img.shields.io/badge/-javascript-gray.svg?style=flat&logo=javascript)
-![Apollo](https://img.shields.io/badge/-apollo-gray.svg?style=flat&logo=apollographql&logoColor=311C87)
-![Graphql](https://img.shields.io/badge/-graphql-gray.svg?style=flat&logo=graphql&logoColor=E10098)
-![Svelte](https://img.shields.io/badge/-svelte-gray.svg?style=flat&logo=svelte)
+![Javascript](https://img.shields.io/badge/-Javascript-gray.svg?style=flat&logo=javascript)
+![Apollo](https://img.shields.io/badge/-Apollo-gray.svg?style=flat&logo=apollographql&logoColor=311C87)
+![Graphql](https://img.shields.io/badge/-Graphql-gray.svg?style=flat&logo=graphql&logoColor=E10098)
+![Svelte](https://img.shields.io/badge/-Svelte-gray.svg?style=flat&logo=svelte)
 
 <!--
 https://simpleicons.org/
