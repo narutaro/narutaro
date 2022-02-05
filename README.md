@@ -17,7 +17,7 @@
 
 I am connecting everything to the cloud 🌥
 
-# Posts
+# Places I write
 
 [![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
 
