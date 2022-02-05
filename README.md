@@ -19,9 +19,10 @@ I am connecting everything to the cloud 🌥
 
 # Posts
 
-[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino) - English
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro) - Japanese
-[![Zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino) - Japanese
+[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
+
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
+[![Zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino) 
 
 # Badges
 
