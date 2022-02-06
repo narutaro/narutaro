@@ -1,3 +1,4 @@
+<!--
 <p align="right">
 <a href="your link" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="25" width="25" />
@@ -12,6 +13,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="25" width="25" />
 </a>
 </p>
+-->
 
 # Hi there 👋
 
@@ -19,7 +21,7 @@ I am connecting everything to the cloud 🌥
 
 # Places I write
 
-[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@masaino)
+[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://senzu.hashnode.dev/)
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
 [![Zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino) 
