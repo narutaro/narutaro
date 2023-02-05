@@ -21,8 +21,9 @@ I am connecting everything to the cloud 🌥
 
 # Places I write
 
-[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://senzu.hashnode.dev/)
+[My blog deck](https://narutaro.github.io/blog-deck/)
 
+[![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://senzu.hashnode.dev/)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
 [![Zenn](https://img.shields.io/badge/-zenn-gray.svg?style=flat&logo=zenn)](https://zenn.dev/masaino) 
 
