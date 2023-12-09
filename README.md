@@ -21,7 +21,7 @@ I am connecting everything to the cloud 🌥
 
 # Random writings
 
-### 🃏 [The blog deck](https://narutaro.github.io/blog-deck/)
+[The blog deck](https://narutaro.github.io/blog-deck/)
 
 [![Hashnode](https://img.shields.io/badge/-hashnode-gray.svg?style=flat&logo=hashnode&logoColor=2962FF)](https://senzu.hashnode.dev/)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/narutaro/contributions.svg)](http://qiita.com/narutaro)
