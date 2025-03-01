@@ -16,6 +16,10 @@
 -->
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/narutaro/stats)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/narutaro/contributions)
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/narutaro/highlights)
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/narutaro/archtype)
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/narutaro/quirk)
 
 
 # Hi there 👋
