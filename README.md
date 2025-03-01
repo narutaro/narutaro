@@ -15,6 +15,9 @@
 </p>
 -->
 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/narutaro/stats)
+
+
 # Hi there 👋
 
 I am connecting everything to the cloud 🌥
